@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/s258021/Desktop/Penny-GES-Assessment/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/s258021/Desktop/Penny-GES-Assessment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/s258021/Desktop/Penny-GES-Assessment/Content/BP_DispatcherListener.uasset",
+				"C:/Users/s258021/Desktop/Penny-GES-Assessment/Content/BP_Enemy.uasset",
+				"C:/Users/s258021/Desktop/Penny-GES-Assessment/Content/WBP_HUD.uasset",
+				"C:/Users/s258021/Desktop/Penny-GES-Assessment/Content/WBP_HUD.uasset",
+				"C:/Users/s258021/Desktop/Penny-GES-Assessment/Content/BP_Damager.uasset",
 				"C:/Users/s258021/Desktop/2DTopDownProject/Content/doors.uasset",
 				"C:/Users/s258021/Desktop/2DTopDownProject/Content/BP_Door.uasset",
 				"C:/Users/s258021/Desktop/2DTopDownProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
